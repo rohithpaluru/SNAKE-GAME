@@ -1,0 +1,6 @@
+{
+  "name": "Cyber Snake & Synth",
+  "description": "A robust dark neon snake game with a built-in AI generated music player.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
